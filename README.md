@@ -2,9 +2,7 @@
 
 In the project directory, you can run:
 
-### `npm start`
-
-### `npm test`
+### `npm run start`
 
 ### `build:prod`
 ### `build:local`
